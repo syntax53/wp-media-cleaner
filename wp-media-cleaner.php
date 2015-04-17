@@ -3,7 +3,7 @@
 Plugin Name: WP Media Cleaner
 Plugin URI: http://www.meow.fr
 Description: Clean your Media Library and Uploads Folder.
-Version: 2.4.0
+Version: 2.4.2
 Author: Jordy Meow
 Author URI: http://www.meow.fr
 
